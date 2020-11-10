@@ -1,5 +1,8 @@
-### On 😁😁
+### 😁 On 😁
 
+- 🌱 I’m currently learning ...
+
+- 📫 How to reach me: ...
 <!--
 **cks3066/cks3066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
